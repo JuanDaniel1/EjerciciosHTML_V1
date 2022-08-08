@@ -1,0 +1,30 @@
+#title1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgb(255, 54, 54);
+}
+.parrafos{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(115, 253, 129);
+}
+#title2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgb(255, 54, 54);
+}
+#container{
+    width: 400px;
+    height: 600px;
+    background-color: rgb(80, 79, 17);
+    margin-left: auto;
+    margin-right: 50px;
+}
+#parrCITA{
+    font-style: italic;
+    color: rgb(12, 35, 178);
+}

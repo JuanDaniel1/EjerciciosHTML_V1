@@ -1,0 +1,24 @@
+#title1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: rgb(193, 16, 16);
+    font-weight: lighter;
+}
+#title2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: rgb(193, 16, 16);
+    font-weight: lighter;
+}
+.parrafos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(7, 0, 19);
+}
+#container{
+    width: 800px;
+    height: 800px;
+    background-color: rgb(239, 106, 52);
+    margin-left: auto;
+    margin-right: auto;
+}

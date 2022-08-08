@@ -1,0 +1,18 @@
+#title1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 55px;
+    font-weight: bold;
+    color: rgb(90, 28, 11);
+}
+.form{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(74, 39, 117);
+}
+#container{
+    width: 450px;
+    height: 500px;
+    background-color: rgb(222, 28, 28);
+    margin-left: auto;
+    margin-right: 30px;
+}

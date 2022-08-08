@@ -1,0 +1,19 @@
+#title1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(133, 40, 40);
+}
+.form{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(132, 132, 25);
+}
+#container{
+    width: 670px;
+    height: 700px;
+    background-color: rgb(49, 221, 14);
+    margin-left: 25px;
+    margin-right: auto;
+}
