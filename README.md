@@ -16,6 +16,10 @@ FECHA DE MODIFICACION: 7 de Agosto de 2022 - Juan Daniel Bohórquez González
 
 </sub>
 
+##Info
+
+Este repositorio contiene 15 ejercicios en cada una de las versiones HTML-CSS, donde se realizaron modificaciones y mejoras para que los codigos sean funcionales bajo las normas de W3C
+
 ## Anotaciones
 👍 -15 ejercicios HTML_v1 (xhtml 1.0).
 
