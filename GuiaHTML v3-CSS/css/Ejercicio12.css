@@ -1,0 +1,16 @@
+#title1{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(33, 139, 96);
+}
+.lista{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(131, 28, 121);
+}
+#container{
+    width: auto;
+    height: auto;
+    background-color: rgb(244, 255, 6);
+}
